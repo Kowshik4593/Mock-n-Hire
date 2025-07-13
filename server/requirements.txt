@@ -1,0 +1,37 @@
+python==3.10.11
+# Core Dependencies
+openai
+langchain
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+numpy==1.26.4
+pandas
+tqdm
+# concurrent.futures
+
+# File Handling
+pdfminer.six
+python-docx
+requests
+zipfile36
+
+# Machine Learning
+scikit-learn
+
+# Google Drive API (if needed)
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+
+keras==2.11.0
+tf-keras
+tensorflow==2.11.0
+python-dotenv
+python-multipart
+jwt
+supabase
+dotenv
