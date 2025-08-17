@@ -14,7 +14,7 @@ Here is a look at the Mock'n-Hire platform in action.
 
 | Recruiter Dashboard | Candidate Screening & Analysis |
 | :---: | :---: |
-| ![Recruiter dashboard showing screening campaigns](Recruiter) | ![Detailed candidate view with score breakdown](Student) |
+| ![Recruiter dashboard showing screening campaigns](Recruiter.png) | ![Detailed candidate view with score breakdown](Student.png) |
 
 ***
 
